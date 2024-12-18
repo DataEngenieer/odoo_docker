@@ -1,4 +1,4 @@
-FROM odoo:18.0
+FROM odoo:latest
 
 ARG LOCALE=en_US.UTF-8
 
